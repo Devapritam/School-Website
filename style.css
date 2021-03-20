@@ -1,0 +1,12 @@
+.marque {
+    background-color: blue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fa {
+    color: black;
+    font-size: 17px;
+}
